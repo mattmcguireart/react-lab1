@@ -1,0 +1,20 @@
+.AdDesigner .ad {
+  border: 1px solid black;
+  width: fit-content;
+  padding: 10px;
+  filter: drop-shadow(0 0 0.25rem black);
+}
+
+.AdDesigner .dark {
+  background-color: black;
+  color: white;
+}
+
+.AdDesigner .flavor {
+  font-family: "Caveat", cursive;
+}
+
+.AdDesigner {
+  padding: 20px;
+  flex: 1;
+}

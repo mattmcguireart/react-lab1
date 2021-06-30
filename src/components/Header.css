@@ -1,0 +1,6 @@
+.Header header {
+  display: flex;
+  justify-content: center;
+  color: #0e3c7e;
+  border-bottom: 2px solid black;
+}

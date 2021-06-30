@@ -1,0 +1,21 @@
+.Votes {
+  padding: 20px;
+  flex: 1;
+}
+
+.Votes .vote-bar {
+  height: 20px;
+  border-radius: 5px;
+}
+
+.Votes .chocolate {
+  background-color: brown;
+}
+
+.Votes .vanilla {
+  background-color: beige;
+}
+
+.Votes .strawberry {
+  background-color: pink;
+}
